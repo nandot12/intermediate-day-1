@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lanjutan App</string>
+
+    <string name="status_bt">Status</string>
+    <string name="status_bt_off">OFF</string>
+    <string name="status_bt_on">ON</string>
+    <string name="discover_bt">Discoverable</string>
+    <string name="discover_bt_off">OFF</string>
+    <string name="discover_bt_on">ON</string>
+    <string name="list_devices">List Devices</string>
+</resources>
